@@ -1,6 +1,6 @@
 # hello-word
 学习
-```php
+```python
 
 echo "hello world";
 ```
